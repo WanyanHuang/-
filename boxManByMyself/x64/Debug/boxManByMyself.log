@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\LanguageLearning\CandC++\boxManByMe\boxManByMyself\main.cpp(275,12): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  boxManByMyself.vcxproj -> E:\LanguageLearning\CandC++\boxManByMe\boxManByMyself\x64\Debug\boxManByMyself.exe

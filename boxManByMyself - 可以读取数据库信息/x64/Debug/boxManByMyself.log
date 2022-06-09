@@ -1,0 +1,6 @@
+﻿  database.cpp
+E:\LanguageLearning\CandC++\boxManByMe\boxManByMyself\database.cpp(176,35): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\LanguageLearning\CandC++\boxManByMe\boxManByMyself\database.cpp(179,36): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+  正在生成代码...
+  boxManByMyself.vcxproj -> E:\LanguageLearning\CandC++\boxManByMe\boxManByMyself\x64\Debug\boxManByMyself.exe

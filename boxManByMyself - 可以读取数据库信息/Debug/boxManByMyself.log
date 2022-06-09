@@ -1,0 +1,11 @@
+﻿database.obj : error LNK2019: 无法解析的外部符号 _mysql_error@4，函数 "bool __cdecl connect_db(struct MYSQL &)" (?connect_db@@YA_NAAUMYSQL@@@Z) 中引用了该符号
+database.obj : error LNK2019: 无法解析的外部符号 _mysql_init@4，函数 "bool __cdecl connect_db(struct MYSQL &)" (?connect_db@@YA_NAAUMYSQL@@@Z) 中引用了该符号
+database.obj : error LNK2019: 无法解析的外部符号 _mysql_real_connect@32，函数 "bool __cdecl connect_db(struct MYSQL &)" (?connect_db@@YA_NAAUMYSQL@@@Z) 中引用了该符号
+database.obj : error LNK2019: 无法解析的外部符号 _mysql_query@8，函数 "bool __cdecl fetch_user_info(struct _userinfo &)" (?fetch_user_info@@YA_NAAU_userinfo@@@Z) 中引用了该符号
+database.obj : error LNK2019: 无法解析的外部符号 _mysql_store_result@4，函数 "bool __cdecl fetch_user_info(struct _userinfo &)" (?fetch_user_info@@YA_NAAU_userinfo@@@Z) 中引用了该符号
+database.obj : error LNK2019: 无法解析的外部符号 _mysql_options@12，函数 "bool __cdecl connect_db(struct MYSQL &)" (?connect_db@@YA_NAAUMYSQL@@@Z) 中引用了该符号
+database.obj : error LNK2019: 无法解析的外部符号 _mysql_free_result@4，函数 "bool __cdecl fetch_user_info(struct _userinfo &)" (?fetch_user_info@@YA_NAAU_userinfo@@@Z) 中引用了该符号
+database.obj : error LNK2019: 无法解析的外部符号 _mysql_fetch_row@4，函数 "bool __cdecl fetch_user_info(struct _userinfo &)" (?fetch_user_info@@YA_NAAU_userinfo@@@Z) 中引用了该符号
+database.obj : error LNK2019: 无法解析的外部符号 _mysql_close@4，函数 "bool __cdecl fetch_user_info(struct _userinfo &)" (?fetch_user_info@@YA_NAAU_userinfo@@@Z) 中引用了该符号
+C:\Program Files\MySQL\MySQL Server 8.0\lib\libmysql.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+E:\LanguageLearning\CandC++\boxManByMe\boxManByMyself\Debug\boxManByMyself.exe : fatal error LNK1120: 9 个无法解析的外部命令
